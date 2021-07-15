@@ -55,5 +55,4 @@ ${data.test}
 
 `;
 }
-
 module.exports = generateMarkdown;

@@ -1,5 +1,5 @@
 
-# **Node.js and ES6+ "Good README Generator"**
+# **Node.js and ES6+ "Good README Generator**
 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40cartaya1-orange)
 ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
@@ -11,7 +11,8 @@ When creating an open source project on GitHub, it is important to have a qualit
 ## Table of contents
 
 - [Description](#Description)
-- [Examples Images](#Images)
+- [Pictures](#Pictures)
+- [Video](#Video)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Licence](#Licence)
@@ -21,18 +22,23 @@ When creating an open source project on GitHub, it is important to have a qualit
 - [GitHub Info](#GitHub) 
 
 
+## Pictures
+
+![GitHub license](./util/read_screen_1.png)
+![GitHub license](./util/read_screen_2.png)
+![GitHub license](./util/read_screen_3.png)
+
+## Video
+
+![GitHub license](./util/shortvideo.webm)
+
 ## Installation
 
-        npr i
+        npm i
 
 ## Usage
 
 node index.js
-
-## Images
-
-![GitHub license](./util/read_screen_1.png)
-
 
 ## Licence
 
@@ -57,3 +63,4 @@ node index.js
 - Luis Cartaya
 - [GitHub Profile](https://github.com/cartaya1)
 - <null>
+
