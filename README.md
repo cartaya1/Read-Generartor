@@ -2,7 +2,7 @@
 # **Node.js and ES6+ "Good README Generator"**
 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40cartaya1-orange)
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ## Description 
 
@@ -34,7 +34,7 @@ node index.js
 
 ## Contributors
 
-![GitHub license](https://img.shields.io/badge/Made%20by-%40LuisCartaya-orange)
+![GitHub license](https://img.shields.io/badge/Made%20by-%40cartaya1-orange)
 
 ## Test
 
