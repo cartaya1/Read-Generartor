@@ -1,11 +1,12 @@
 
-# **Read-Generator**
+# **Node.js and ES6+ "Good README Generator"**
 
-test test test
+![GitHub license](https://img.shields.io/badge/Made%20by-%40cartaya1-orange)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
 
-en este punto solo queremos deiscutir la mejor parte
+When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.   
 
 ## Table of contents
 
@@ -21,23 +22,23 @@ en este punto solo queremos deiscutir la mejor parte
 
 ## Installation
 
-        npm i and that it 
+        npr i
 
 ## Usage
 
-Luis Cartaya
+node index.js
 
 ## Licence
 
-itm
+![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ## Contributors
 
-just me
+![GitHub license](https://img.shields.io/badge/Made%20by-%40LuisCartaya-orange)
 
 ## Test
 
-test1 yes
+![GitHub license](https://img.shields.io/badge/test-100%25-success)
 
 
 ## Repository
@@ -50,4 +51,3 @@ test1 yes
 - Luis Cartaya
 - [GitHub Profile](https://github.com/cartaya1)
 - <null>
-
