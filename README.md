@@ -30,7 +30,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ## Video
 
-![GitHub license](./util/shortvideo.mp4)
+![GitHub license](./util/shortvideo.gif)
 
 ## Installation
 
