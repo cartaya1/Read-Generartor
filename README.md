@@ -24,11 +24,12 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ## Pictures
 
-![GitHub license](./util/read_screen.png)
+Temporal out - for screen shot
 
 ## Video
 
 ![GitHub license](./util/shortvideo.gif)
+
 
 ## Installation
 
@@ -50,6 +51,8 @@ node index.js
 
 ![GitHub license](https://img.shields.io/badge/test-100%25-success)
 
+[GitHub Test Link](https://cartaya1.github.io/Read-Generator/)
+
 
 ## Repository
 
@@ -60,5 +63,4 @@ node index.js
 ![Image of me](https://avatars.githubusercontent.com/u/85638758?v=4)
 - Luis Cartaya
 - [GitHub Profile](https://github.com/cartaya1)
-- <null>
-
+- Cartaya's House INC.
