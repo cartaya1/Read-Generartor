@@ -24,7 +24,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ## Pictures
 
-Temporal out - for screen shot
+![GitHub license](./util/read_screen.png)
 
 ## Video
 
