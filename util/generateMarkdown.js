@@ -51,8 +51,7 @@ ${data.test}
 ![Image of me](${githubInfo.githubImage})
 - ${githubInfo.name}
 - [GitHub Profile](${githubInfo.profile})
-- <${githubInfo.email}>
-
+- [Github Email}(${githubInfo.email})
 `;
 }
 module.exports = generateMarkdown;

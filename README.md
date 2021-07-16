@@ -65,4 +65,5 @@ node index.js
 ![Image of me](https://avatars.githubusercontent.com/u/85638758?v=4)
 - Luis Cartaya
 - [GitHub Profile](https://github.com/cartaya1)
-- Cartaya's House INC.
+- [GitHub Email](cartaya1@msn.com)
+- Cartaya's House Inc.
