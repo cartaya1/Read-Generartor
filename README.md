@@ -24,9 +24,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ## Pictures
 
-![GitHub license](./util/read_screen_1.png)
-![GitHub license](./util/read_screen_2.png)
-![GitHub license](./util/read_screen_3.png)
+![GitHub license](./util/read_screen.png)
 
 ## Video
 
